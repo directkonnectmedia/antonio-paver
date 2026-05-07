@@ -338,7 +338,7 @@ const Home = (props) => {
                   </svg>
                 </div>
                 <p className="testimonial-quote">
-                  &quot;Ramiro&apos;s team transformed our backyard into a
+                  &quot;Antonio&apos;s team transformed our backyard into a
                   five-star resort. The attention to detail in the paver
                   alignment is simply unmatched in Arizona.&quot;
                 </p>

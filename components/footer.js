@@ -11,7 +11,7 @@ const Footer = (props) => {
           <div className="footer-container">
             <div className="footer-grid">
               <div className="footer-column footer-brand-column">
-                <h2 className="footer-brand-title">Ramiro Camacho</h2>
+                <h2 className="footer-brand-title">Antonio Pavers</h2>
                 <span className="footer-brand-subtitle">
                   Master Paver Craftsmanship
                 </span>
@@ -197,7 +197,7 @@ const Footer = (props) => {
             <div className="footer-bottom">
               <div className="footer-bottom-content">
                 <p className="footer-copyright">
-                  &amp;copy; 2026 Ramiro Camacho Pavers. All rights reserved.
+                  &amp;copy; 2026 Antonio Pavers. All rights reserved.
                 </p>
                 <div className="footer-legal-links">
                   <a href="#">

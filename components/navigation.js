@@ -14,7 +14,7 @@ const Navigation = (props) => {
               <a>
                 <div className="navigation-logo">
                   <span className="section-title">
-                    Ramiro Camacho Pavers LLC
+                    Antonio Pavers
                   </span>
                 </div>
               </a>
@@ -78,7 +78,7 @@ const Navigation = (props) => {
               <a>
                 <div className="navigation-logo">
                   <span className="section-title">
-                    Ramiro Camacho Pavers LLC
+                    Antonio Pavers
                   </span>
                 </div>
               </a>
